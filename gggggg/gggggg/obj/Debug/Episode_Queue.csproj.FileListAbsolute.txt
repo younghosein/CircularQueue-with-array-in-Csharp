@@ -1,0 +1,13 @@
+C:\Users\RayanGate\Desktop\gggggg\gggggg\bin\Debug\gggggg.exe.config
+C:\Users\RayanGate\Desktop\gggggg\gggggg\bin\Debug\gggggg.exe
+C:\Users\RayanGate\Desktop\gggggg\gggggg\bin\Debug\gggggg.pdb
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\Episode_Queue.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\gggggg.exe
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\gggggg.pdb
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\bin\Debug\gggggg.exe.config
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\bin\Debug\gggggg.exe
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\bin\Debug\gggggg.pdb
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\obj\Debug\Episode_Queue.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\obj\Debug\Episode_Queue.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\obj\Debug\gggggg.exe
+C:\Users\RayanGate\Downloads\Telegram Desktop\gggggg\gggggg\obj\Debug\gggggg.pdb

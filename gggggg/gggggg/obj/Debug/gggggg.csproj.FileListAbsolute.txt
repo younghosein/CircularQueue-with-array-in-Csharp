@@ -1,0 +1,7 @@
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\gggggg.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\gggggg.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\gggggg\gggggg\bin\Debug\gggggg.exe.config
+C:\Users\RayanGate\Desktop\gggggg\gggggg\bin\Debug\gggggg.exe
+C:\Users\RayanGate\Desktop\gggggg\gggggg\bin\Debug\gggggg.pdb
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\gggggg.exe
+C:\Users\RayanGate\Desktop\gggggg\gggggg\obj\Debug\gggggg.pdb
